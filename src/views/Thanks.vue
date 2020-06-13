@@ -14,7 +14,7 @@
 
       <v-card-text class="headline ml-7 pb-8 brown--text font-weight-regular mb-12">
         Thanks {{this.name}}, we hope you had a
-        <span class="font-weight-bold">Gastronomously</span> Amazing experience with us. See you soon :)
+        <span class="font-weight-bold">Gastronomously</span> amazing experience with us. See you soon :)
         <p
           class="Headline black--text mt-12 font-weight-medium"
         >Scan this to view the progress on your food:</p>
